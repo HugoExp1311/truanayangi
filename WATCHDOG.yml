@@ -1,0 +1,5 @@
+advisors:
+  - name: default
+    enabled: false
+  - name: Advisor Gem37
+    model: my-api/vsllm/gemini-3.7-flash-api

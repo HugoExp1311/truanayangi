@@ -3,3 +3,17 @@ dist/
 *.tsbuildinfo
 .env*
 .DS_Store
+
+# Android & Gradle ignores
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+*.iml
+.idea/
+android/gradle-8.7/
+android/.gradle/
+android/app/build/
+android/build/
